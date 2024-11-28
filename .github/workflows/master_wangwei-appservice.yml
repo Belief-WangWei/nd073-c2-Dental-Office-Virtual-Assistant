@@ -59,4 +59,4 @@ jobs:
           app-name: 'wangwei-appservice'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BF9A968FB3E452BAE7E99D4FF549DF5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1BDB212C6AE74C26829E7E198A27AAB0 }}

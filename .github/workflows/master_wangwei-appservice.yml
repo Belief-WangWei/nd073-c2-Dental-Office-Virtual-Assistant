@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'wangwei-appservice'
           slot-name: 'Production'
-          package: .
+          package: './starter/ContosoDentistryChatBot'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_77A23B72F6A74E659FAD8CC7B0C8A117 }}
